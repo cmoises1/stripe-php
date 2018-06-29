@@ -29,9 +29,9 @@
 	<section class="text-center my-5">
 
 		<!-- Section heading -->
-		<h2 class="h1-responsive font-weight-bold text-center my-5">Store</h2>
+		<h2 class="h1-responsive font-weight-bold text-center my-5">Test Store</h2>
 		<!-- Section description -->
-		<p class="grey-text text-center w-responsive mx-auto mb-5">Test store for integration of payment processors.</p>
+		<p class="grey-text text-center w-responsive mx-auto mb-5">Test store for the integration of the payment processor <a href="https://stripe.com"> Stripe</a>.</p>
 
 		<?php 
 		$colNum = 1;
